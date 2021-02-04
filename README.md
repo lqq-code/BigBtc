@@ -1,27 +1,5 @@
 ## 合成大饼
 
-**声明，本项目仅帮助大家学习技术及娱乐，切勿将修改后的网站大规模传播及商用，以避免侵权！**
-
-> 最简单的魔改发布『 合成大饼 』，不用改代码，修改配置即可！
->
-> 有帮助的话，求个大大的 star，有疑问请联系 wx：liyupi66
->
-> 遇到问题可以先阅读本文档最后『 问题及解决 』
-
-1 月 31 日晚 21 点，bilibili 直播交流，[程序员鱼皮](https://space.bilibili.com/12890453)
-
-详细教程：[魔改和上线你的合成大饼，最全教程！](https://mp.weixin.qq.com/s/H9VR1MWn-9bKSC_1l_MkJw)
-
-视频教程：[全网最贴心的魔改合成大饼教程，从修改到发布！](https://www.bilibili.com/video/BV1Vy4y1n7KW/)
-
-未修改版在线玩：[https://daxigua.liyupi.com](https://daxigua.liyupi.com)
-
-魔改版在线玩：[https://dadaxigua.liyupi.com](https://dadaxigua.liyupi.com)
-
-未修改版源码：https://github.com/liyupi/daxigua/releases/tag/1.0.0
-
-![秀爆朋友圈](./assets/dadaxigua.png)
-
 ### 本地启动
 
 1. 安装 serve 工具：
@@ -115,4 +93,4 @@
 
    答：在输入 vercel 后，选择不和已有项目关联（link），并且使用一个新的项目名（project name）。
 
-8.
+
