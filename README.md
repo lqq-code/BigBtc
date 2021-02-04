@@ -16,6 +16,9 @@
 
 3. 打开浏览器访问 localhost:5000 即可！
 
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210204113347600.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MjIyNDA1NQ==,size_16,color_FFFFFF,t_70#pic_center)
+
 ### 快速魔改
 
 > 按照下列说明修改即可，持续补充
