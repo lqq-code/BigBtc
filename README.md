@@ -1,4 +1,4 @@
-## 合成大饼BTC
+## 合成简宝
 
 ### 本地启动
 
@@ -15,7 +15,6 @@
    ```
 
 3. 打开浏览器访问 localhost:5000 即可！
-
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210204113347600.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MjIyNDA1NQ==,size_16,color_FFFFFF,t_70#pic_center)
 
@@ -53,7 +52,7 @@
 
 ### 魔改原理
 
-请先阅读：[魔改和上线你的合成大饼，最全教程！](https://mp.weixin.qq.com/s/H9VR1MWn-9bKSC_1l_MkJw)
+请先阅读：[魔改和上线你的合成简宝，最全教程！](https://mp.weixin.qq.com/s/H9VR1MWn-9bKSC_1l_MkJw)
 
 我给 `project.js` 文件补充了注释，大家可以搜索关键字，如 "改分" 来快速定位，学习修改原理。
 
@@ -95,5 +94,3 @@
 7. 怎么使用 vercel 同时上线多个版本？
 
    答：在输入 vercel 后，选择不和已有项目关联（link），并且使用一个新的项目名（project name）。
-
-
